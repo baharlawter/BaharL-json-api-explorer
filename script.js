@@ -23,3 +23,6 @@ function fetchPosts() {
       postList.innerHTML = "";
     });
 }
+{
+  son;
+}
